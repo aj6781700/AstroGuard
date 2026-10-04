@@ -1,0 +1,6 @@
+{
+  "name": "ASTROGUARD",
+  "description": "River-aware flood intelligence and autonomous disaster response platform for Assam, India, monitoring the Brahmaputra and Barak river systems via Sentinel-1 SAR, river gauge telemetry, and adaptive surveillance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
